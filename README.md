@@ -1,5 +1,4 @@
 # week-3-assignment
-assignment
 def calculate_discount(price, discount_percent):
     """
     Returns the price after applying discount_percent if it is 20% or higher;
@@ -28,4 +27,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
